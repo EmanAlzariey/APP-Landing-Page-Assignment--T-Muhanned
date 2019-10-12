@@ -432,7 +432,11 @@ textarea {
  }
 
  .btn  {
-    background-color: red;
+	background-color: transparent;
+	border-color: lightgray;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 3px;
 }
 
 .btn:focus {     
